@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/michb0t/react-forms/static/css/main.38d5a27d.css",
+    "main.js": "/michb0t/react-forms/static/js/main.885162a5.js",
+    "index.html": "/michb0t/react-forms/index.html",
+    "main.38d5a27d.css.map": "/michb0t/react-forms/static/css/main.38d5a27d.css.map",
+    "main.885162a5.js.map": "/michb0t/react-forms/static/js/main.885162a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38d5a27d.css",
+    "static/js/main.885162a5.js"
+  ]
+}
